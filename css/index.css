@@ -1,0 +1,120 @@
+body {
+    background-color: whitesmoke;
+    font-size: 16px;
+    font-family: 'Cambay', sans-serif;
+    font-weight: 100;
+    color: #1c1a1a;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 16px;
+}
+/* div.column {
+    border: 1px solid #4CAF50;
+} */
+.link {
+    color: azure;
+}
+div.center {
+    vertical-align: middle;
+    text-align: center;
+}
+div.left {
+    text-align: left;
+}
+div.circle1 {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    color: azure;
+    line-height: 140px;
+    text-align: center;
+    background: #379e29;
+}
+div.circle2 {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    color: azure;
+    line-height: 140px;
+    text-align: center;
+    background: #29449e;
+}
+div.circle3 {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    color: azure;
+    line-height: 140px;
+    text-align: center;
+    background: #9e8b29;
+}
+div.all-margin {
+    margin: 8px;
+}
+header.navbar {
+    background-color: #302d2d;
+    color: #dbd0d0;
+}
+section.navbar-section {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+div.name {
+    font-weight: bold;
+    font-size: 40px;
+    padding: 0px;
+}
+div.title {
+    font-style: italic;
+    font-size: 20px;
+}
+div.content {
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+div.footer {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-color: #302d2d;
+    color: #dbd0d0;
+}
+div.footermg {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    vertical-align: middle;
+}
+div.footermg2 {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    vertical-align: middle;
+}
+div.position {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 140%
+}
+div.company {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 120%
+}
+div.duration {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 100%
+}
+div.breakline {
+    font-size: 4px;
+}
+div.description {
+    font-size: 14px;
+    font-style: italic;
+    margin: 1px 0;
+}
+ul {
+    line-height: 80%
+}
