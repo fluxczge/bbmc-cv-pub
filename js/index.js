@@ -10,22 +10,22 @@ $(document).ready(function(){
     $("#projectDiv").hide();
   }
 
-  $("#homeNav").click(function(){
+  $(".homeNav").click(function(){
     hideAll();
     $("#homeDiv").show();
   });
 
-  $("#resumeNav").click(function(){
+  $(".resumeNav").click(function(){
     hideAll();
     $("#resumeDiv").show();
   });
 
-  $("#skillsNav").click(function(){
+  $(".skillsNav").click(function(){
     hideAll();
     $("#skillsDiv").show();
   });
 
-  $("#projectNav").click(function(){
+  $(".projectNav").click(function(){
     hideAll();
     $("#projectDiv").show();
   });
